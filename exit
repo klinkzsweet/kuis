@@ -1,0 +1,58 @@
+[33mcommit c5047f436cb5b3d0a0d1fab426a5809c734dca63[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: jarot sujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 15:42:29 2021 +0700
+
+    Update README.md
+    
+    tes7
+
+[33mcommit 4333192204de0467f85bd5fe2953a7ab4f49e07c[m[33m ([m[1;32mmain[m[33m)[m
+Author: jarotsujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 15:39:57 2021 +0700
+
+    tes6
+
+[33mcommit 9124e9c4aa31a6d38bfa9a8b9ca92ded799604f9[m
+Merge: 4eae03a 4b89c6e
+Author: jarotsujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 15:38:33 2021 +0700
+
+    tes5
+
+[33mcommit 4eae03a195d91afbb1d8070f421c66c1687e71da[m
+Author: jarotsujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 15:11:19 2021 +0700
+
+    mengedit catatan tiga di file readme.md
+
+[33mcommit 715e741d24f3a897502eac8c23abb9cfe0f20c22[m
+Author: jarotsujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 15:08:20 2021 +0700
+
+    megedit catatan 2 di file readme.md
+
+[33mcommit 4b89c6e167bfdd95a09e0577d9de160bfd06627e[m
+Author: jarot sujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 15:06:36 2021 +0700
+
+    Update README.md
+    
+    mengedit catatan di file readme.md
+
+[33mcommit a8b75cca9f0ea52626c46814ed5fe18f3f61affe[m
+Author: jarotsujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 15:01:27 2021 +0700
+
+    menambahkan catatan di file readme.md
+
+[33mcommit ed21518907aca7fd3d944f5447ac3b0d892b2301[m
+Author: jarotsujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 14:46:21 2021 +0700
+
+    menambahkan konfigurasi database di file .env
+
+[33mcommit 54717ab80223301bd843c9a177424142bf5c3f5c[m
+Author: jarotsujadmiko <jarot.sujadmiko@gmail.com>
+Date:   Sun Apr 11 13:36:26 2021 +0700
+
+    membuat kodingan laravel 8 crud sederhana
